@@ -1,3 +1,3 @@
 # Dmoj
 
-Taking a dabble at problems on [dmoj.ca](dmoj.ca).
+Taking a dabble at problems on [dmoj.ca](https://dmoj.ca).
