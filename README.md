@@ -1,3 +1,1 @@
-# Dmoj
-
-Taking a dabble at problems on [dmoj.ca](https://dmoj.ca).
+Taking a dabble into the world of **competitive programming** ⚔️
